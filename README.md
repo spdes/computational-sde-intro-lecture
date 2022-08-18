@@ -52,7 +52,7 @@ Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register t
 12. **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
 
-Time is 13:15 - 15:00 for all the lectures.
+Time is 13:15 - 15:00 for all the lectures (45 mins + 45 mins + 10 mins break).
 
 # Seminar lectures (9 credits)
 
@@ -84,7 +84,7 @@ By attending (not necessarily all) the seminar courses and complete their writin
     This lecture explains the constructions of Brownian motion and Ito integrals. 
     Date: 5 Dec, 2022. Room 101127 Ångström
 
-Time is 13:15 - 17:00 for all the lectures.
+Time is 13:15 - 17:00 for all the seminar lectures, but the actual time depends on the lecturers.
 
 Note that the dates for the seminar courses are not fixed. They are subject to change depending on the schedule of the lecturers.
 
