@@ -52,7 +52,7 @@ Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register t
 12. **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
 
-Time is 13:15 - 17:00 for all the lectures.
+Time is 13:15 - 15:00 for all the lectures.
 
 # Seminar lectures (9 credits)
 
