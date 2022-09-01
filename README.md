@@ -42,7 +42,7 @@ Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register t
     7 Nov, 2022. Room 101127 Ångström.
 
 9. **Exercise 2**. <br>
-    9 Nov, 2022. Room 101127 Ångström.
+    9 Nov, 2022. Room 101150 Ångström.
 
 10. **SDE system identification**. <br>
     11 Nov, 2022. Room 101142 Ångström. <br>
