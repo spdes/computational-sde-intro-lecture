@@ -46,7 +46,7 @@ Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register t
 
 10. **SDE system identification**. <br>
     11 Nov, 2022. Room 101142 Ångström. <br>
-    Lecturer: [Mohamed Abdalmoaty](https://people.kth.se/~abda/)
+    Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
 
 11. **Exercise 3**. <br>
     18 Nov, 2022. Room 101127 Ångström.
