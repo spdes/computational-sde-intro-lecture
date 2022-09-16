@@ -62,7 +62,7 @@ By attending (not necessarily all) the seminar courses and complete their writin
 
 1. **Continuous-time filtering**. <br>
     This lecture is concerned with continuous-time filtering, for example, Zakai equation, Kushner equation, and projection filtering. <br>
-    Date: 14 Nov, 2022. Zoom (subject to change) <br>
+    Date: 14:15 - ?, 17 Nov, 2022. Zoom <br>
     Lecturer: [Muhammad Fuady Emzir](https://scholar.google.com/citations?user=nfBRAHAAAAAJ&hl=en) (KFUPM)
 
 2. **SDEs and Markov chain Monte Carlo**. <br>
