@@ -54,7 +54,7 @@ Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register t
 12. **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
 
-Time is 13:15 - 15:00 for all the lectures (45 mins + 45 mins + 10 mins break).
+Time is (Swedish) 13:15 - 15:00 for all the lectures (45 mins + 45 mins + 10 mins break).
 
 # Seminar lectures (9 credits)
 
@@ -62,7 +62,7 @@ By attending (not necessarily all) the seminar courses and complete their writin
 
 1. **Continuous-time filtering**. <br>
     This lecture is concerned with continuous-time filtering, for example, Zakai equation, Kushner equation, and projection filtering. <br>
-    Date: 14:15 - ?, 17 Nov, 2022. Zoom <br>
+    Date: 13:15 - ?, 17 Nov, 2022. Zoom <br>
     Lecturer: [Muhammad Fuady Emzir](https://scholar.google.com/citations?user=nfBRAHAAAAAJ&hl=en) (KFUPM)
 
 2. **SDEs and Markov chain Monte Carlo**. <br>
@@ -85,8 +85,6 @@ By attending (not necessarily all) the seminar courses and complete their writin
 6. **Constructions of Wiener processes and stochastic integrals**. <br>
     This lecture explains the constructions of Brownian motion and Ito integrals. <br>
     Date: 5 Dec, 2022. Room 101127 Ångström
-
-Time is 13:15 - 15:00 for all the seminar lectures, but the actual time depends on the lecturers.
 
 Note that the dates for the seminar courses are not fixed. They are subject to change depending on the schedule of the lecturers.
 
