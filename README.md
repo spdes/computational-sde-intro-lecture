@@ -33,7 +33,8 @@ Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register t
     31 Oct, 2022. Room 101146 Ångström.
 
 6. **Exercise 1**. <br>
-    2 Nov, 2022. Room 101127 Ångström.
+    2 Nov, 2022. Room 101127 Ångström. <br>
+    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 2 - 3.
 
 7. **Filtering and smoothing problems I (i.e., regression with SDE prior)**. <br>
     4 Nov, 2022. Room 101127 Ångström.
@@ -42,14 +43,16 @@ Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register t
     7 Nov, 2022. Room 101127 Ångström.
 
 9. **Exercise 2**. <br>
-    9 Nov, 2022. Room 101150 Ångström.
+    9 Nov, 2022. Room 101150 Ångström. <br>
+    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 4 - 5.
 
 10. **SDE system identification**. <br>
     11 Nov, 2022. Room 101142 Ångström. <br>
     Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
 
 11. **Exercise 3**. <br>
-    18 Nov, 2022. Room 101127 Ångström.
+    18 Nov, 2022. Room 101127 Ångström. <br>
+    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 7, 8, and 10.
 
 12. **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
