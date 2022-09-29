@@ -15,6 +15,10 @@ This course aims to develop a computational view of stochastic differential equa
 
 Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register the course.
 
+# Lecture notes
+
+The lectures are given on chalkboard (numerical experiments are given in Jupyter Notebook). Hence it is recommended that the students take the note during the class, although the course responsible will upload the lecture note (possibly hand-written) to this repository.
+
 # Essential lectures (6 credits)
 
 1. **Introduction to the course**. <br>
