@@ -74,20 +74,21 @@ By attending (not necessarily all) the seminar courses and complete their writin
 
 2. **SDEs and Markov chain Monte Carlo**. <br>
     In this lecture, we present a general recipe for constructing Markov chain Monte Carlo (MCMC) samplers, including stochastic gradient (SG) versions, from stochastic continuous dynamics (SDEs). We also explore the connections between SG-MCMC and stochastic optimization methods via simple annealing techniques. Recommended readings: 1) A Complete Recipe for Stochastic Gradient MCMC. 2) Bridging the gap between stochastic gradient MCMC and stochastic optimization. <br>
-    Date: 21 Nov, 2022. Room 101127 Ångström (subject to change) <br>
+    Date: 09:15 - 11:00, 22 Nov, 2022. Room 4101 Ångström <br>
     Lecturer: [Cagatay Yildiz](https://cagatayyildiz.github.io/) (University of Tübingen)
 
 3. **Probabilistic numerics for ordinary differential equations**. <br>
     Probabilistic numerical methods aim to explicitly represent the numerical uncertainty that results from limited computational resources. In this lecture, we present a class of probabilistic numerical solvers for ODEs which pose the numerical solution of an ODE as a Gauss--Markov regression problem. The resulting methods, called "ODE filters", efficiently compute posterior distributions over ODE solutions with methods from Bayesian filtering and smoothing. <br>
-    Date: 25 Nov, 2022. Room 101127 Ångström (subject to change) <br>
+    Date: 13:15 - 15:00, 22 Nov, 2022. Room 2001 Ångström <br>
     Lecturer: [Nathanael Bosch](https://nathanaelbosch.github.io/) (University of Tübingen)
 
 4. **Applications of SDEs in statistical signal processing**. <br>
     In this lecture we present a few applications that use SDEs to solve signal processing problems. These include, for example, using SDEs to construct non-stationary processes to model complicated signals, and using SDEs to estiamte the spectrogram of signals with uncertainty. <br>
     Date: 28 Nov, 2022. Room 101127 Ångström (subject to change)
 
-5. TBD. <br>
-    2 Dec, 2022. Room 101127 Ångström. You are very welcome to contact me if you would like to give a guest lecture.
+5. **Topic TBD**. <br>
+    2 Dec, 2022. Room 101127 Ångström. <br>
+    Lecturer: [Roland Hostettler](http://hostettler.co/) (Uppsala University)
 
 6. **Constructions of Wiener processes and stochastic integrals**. <br>
     This lecture explains the constructions of Brownian motion and Ito integrals. <br>
