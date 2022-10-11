@@ -13,7 +13,7 @@ This course aims to develop a computational view of stochastic differential equa
 
 # How to register
 
-Please fill in the Google form https://forms.gle/mC7tLBUnPdEUL4XeA to register the course.
+The registration is now closed. If you still would like to enroll the course, please send an email to the course responsible.
 
 # Lecture notes
 
