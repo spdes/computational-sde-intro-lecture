@@ -44,7 +44,7 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
     4 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00.
 
 7. **Filtering and smoothing problems II (i.e., regression with SDE prior)**. <br>
-    7 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00.
+    7 Nov, 2022. Room 101150 Ångström. (Swedish) 13:15 - 15:00.
 
 -  **Exercise 2**. <br>
     9 Nov, 2022. Room 101150 Ångström. (Swedish) 13:15 - 15:00. <br>
@@ -56,7 +56,7 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
 
 -  **Exercise 3**. <br>
     18 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00. <br>
-    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 7, 8, and 10.
+    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 6 - 8.
 
 -  **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
