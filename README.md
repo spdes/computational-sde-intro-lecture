@@ -22,43 +22,43 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
 # Essential lectures (6 credits)
 
 1. **Introduction to the course**. <br>
-    17 Oct, 2022. Room 4005 Ångström.
+    17 Oct, 2022. Room 4005 Ångström. (Swedish) 13:15 - 15:00.
 
 2. **Stochastic differential/integral equations**. <br>
-    21 Oct, 2022. Room 101132 Ångström.
+    21 Oct, 2022. Room 101132 Ångström. (Swedish) 13:15 - 15:00.
 
 3. **Numerical solution to stochastic differential equation**. <br>
-    24 Oct, 2022. Room 101127 Ångström.
+    24 Oct, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00.
 
 4. **Statistical properties of SDE solutions**. <br>
-    28 Oct, 2022. Room 101142 Ångström.
+    28 Oct, 2022. Room 101142 Ångström. (Swedish) 13:15 - 15:00.
 
 5. **Linear SDEs and Gaussian processes**. <br>
-    31 Oct, 2022. Room 101146 Ångström.
+    31 Oct, 2022. Room 101146 Ångström. (Swedish) 13:15 - 15:00.
 
-6. **Exercise 1**. <br>
-    2 Nov, 2022. Room 101127 Ångström. <br>
+-  **Exercise 1**. <br>
+    2 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 2 - 3.
 
-7. **Filtering and smoothing problems I (i.e., regression with SDE prior)**. <br>
-    4 Nov, 2022. Room 101127 Ångström.
+6. **Filtering and smoothing problems I (i.e., regression with SDE prior)**. <br>
+    4 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00.
 
-8. **Filtering and smoothing problems II (i.e., regression with SDE prior)**. <br>
-    7 Nov, 2022. Room 101127 Ångström.
+7. **Filtering and smoothing problems II (i.e., regression with SDE prior)**. <br>
+    7 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00.
 
-9. **Exercise 2**. <br>
-    9 Nov, 2022. Room 101150 Ångström. <br>
+-  **Exercise 2**. <br>
+    9 Nov, 2022. Room 101150 Ångström. (Swedish) 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 4 - 5.
 
-10. **SDE system identification**. <br>
-    11 Nov, 2022. Room 101142 Ångström. <br>
+8. **SDE system identification**. <br>
+    11 Nov, 2022. Room 101142 Ångström. (Swedish) 13:15 - 15:00. <br>
     Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
 
-11. **Exercise 3**. <br>
-    18 Nov, 2022. Room 101127 Ångström. <br>
+-  **Exercise 3**. <br>
+    18 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 7, 8, and 10.
 
-12. **Student project work presentation**. <br>
+-  **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
 
 Time is (Swedish) 13:15 - 15:00 for all the lectures (45 mins + 45 mins + 10 mins break).
