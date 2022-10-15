@@ -96,6 +96,10 @@ By attending (not necessarily all) the seminar courses and complete their writin
 
 Note that the dates for the seminar courses are not fixed. They are subject to change depending on the schedule of the lecturers.
 
+# Reserved timeslots
+
+We have also reserved 09.12.2022 and 12.12.2022 at Room 101127 Ångström, 13:15 - 15:00 (Swedish) as backup.
+
 # Course arrangement
 
 The course consists of lectures, exercises, and project work. Specifically, in each week, there would be one/two lectures (45 + 45 mins) and an exercise session (60 mins). The students shall present and discuss their exercise solutions during the exercise session. 
