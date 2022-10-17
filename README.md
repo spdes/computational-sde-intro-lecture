@@ -52,6 +52,7 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
 
 8. **SDE system identification**. <br>
     11 Nov, 2022. Room 101142 Ångström. (Swedish) 13:15 - 15:00. <br>
+    This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the tranformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will breifly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and discribe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretization of the model and a discrete-time Kalman filter.<br>
     Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
 
 -  **Exercise 3**. <br>
