@@ -1,6 +1,7 @@
 # A computational introduction to stochastic differential equations
 
-![](./assets/fpk.gif "SDE density evolution in time")
+<img src="./assets/fpk.gif" alt="SDE density evolution in time" width="400"/>
+<img src="./assets/filtering-smoothing.gif" alt="Stochasti filtering and smoothing" width="400"/>
 
 This course aims to develop a computational view of stochastic differential equations (SDEs) for students that have an applied or engineering background, e.g., machine learning, signal processing, electrical engineering, control, and statistics.
 
