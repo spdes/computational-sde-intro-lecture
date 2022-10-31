@@ -7,7 +7,7 @@ This course aims to develop a computational view of stochastic differential equa
 
 # Prerequisites
 
-1. Linear algebras
+1. Linear algebra
 2. Real analysis (not essential)
 3. Probability theory
 4. Ordinary differential equations
@@ -18,7 +18,7 @@ The registration is now closed. If you still would like to enroll the course, pl
 
 # Lecture notes
 
-The lectures are given on chalkboard (numerical experiments are given in Jupyter Notebook). Hence it is recommended that the students take the note during the class, although the course responsible will upload the lecture note (possibly hand-written) to this repository.
+The lectures are given on chalkboard (numerical experiments are given in Jupyter Notebook). Hence, it is recommended that students take notes during the class, although the course responsible will upload the lecture notes (possibly hand-written) to this repository.
 
 # Essential lectures (6 credits)
 
@@ -53,7 +53,7 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
 
 8. [**SDE system identification**](./lectures/lecture_notes/lecture8.pdf). <br>
     11 Nov, 2022. Room 101142 Ångström. 13:15 - 15:00. <br>
-    This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the tranformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will breifly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and discribe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretization of the model and a discrete-time Kalman filter.<br>
+    This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the transformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will briefly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and describe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretisation of the model and a discrete-time Kalman filter.<br>
     Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
 
 -  [**Exercise 3**](./exercises/exercise3.pdf). <br>
@@ -63,11 +63,11 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
 -  **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
 
-Time is 13:15 - 15:00 for all the lectures (45 mins + 45 mins + 10 mins break).
+The time is 13:15 - 15:00 for all the lectures (45 mins + 10 mins break + 45 mins).
 
 # Seminar lectures (9 credits)
 
-By attending (not necessarily all) the seminar courses and complete their writing assigments/exericses, you get upgrade to 9 credits.
+By attending (not necessarily all) the seminar courses and completing their writing assigments/exericses, you get upgrade to 9 credits.
 
 1. **Continuous-time filtering**. <br>
     This lecture is concerned with continuous-time filtering, for example, Zakai equation, Kushner equation, and projection filtering. <br>
@@ -85,7 +85,7 @@ By attending (not necessarily all) the seminar courses and complete their writin
     Lecturer: [Nathanael Bosch](https://nathanaelbosch.github.io/) (University of Tübingen)
 
 4. **Applications of SDEs in statistical signal processing**. <br>
-    In this lecture we present a few applications that use SDEs to solve signal processing problems. These include, for example, using SDEs to construct non-stationary processes to model complicated signals, and using SDEs to estiamte the spectrogram of signals with uncertainty. <br>
+    In this lecture we present a few applications that use SDEs to solve signal processing problems. These include, for example, using SDEs to construct non-stationary processes to model complicated signals, and using SDEs to estimate the spectrogram of signals with uncertainty. <br>
     Date: 28 Nov, 2022. Room 101127 Ångström (subject to change)
 
 5. **Topic TBD**. <br>
@@ -95,8 +95,6 @@ By attending (not necessarily all) the seminar courses and complete their writin
 6. **Constructions of Wiener processes and stochastic integrals**. <br>
     This lecture explains the constructions of Brownian motion and Ito integrals. <br>
     Date: 5 Dec, 2022. Room 101127 Ångström
-
-Note that the dates for the seminar courses are not fixed. They are subject to change depending on the schedule of the lecturers.
 
 # Reserved timeslots
 
@@ -114,7 +112,7 @@ In order to get 6 credits, you need to
 - pass the three exercise assignments,
 - present the project work. Depending on the number of students, you may do the project work in group.
 
-If you would like to get 9 credits, you need to fullfill the requirements for the 6 credits as stated above, and in addition, 
+If you would like to get 9 credits, you need to fulfill the requirements for the 6 credits as stated above, and in addition, 
 
 - actively participate all the seminar lectures,
 - Select five from all the seminar lectures, then pass the exercises of the selected, or do a writing assignment if the lecture has no exercise. (We will define the writing assignment later).
@@ -135,7 +133,7 @@ This course is mainly based on the following textbooks.
 
 # Course history
 
-- Oct - Dec, 2022, Uppsala Universitet, FTN0332 TN22H006.
+- Oct - Dec, 2022, Uppsala University, FTN0332 TN22H006.
 
 # Contact
 
