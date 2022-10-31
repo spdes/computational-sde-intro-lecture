@@ -22,41 +22,41 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
 
 # Essential lectures (6 credits)
 
-1. **Introduction to the course**. <br>
+1. [**Introduction to the course**](./lectures/lecture_notes/lecture1.pdf). <br>
     17 Oct, 2022. Room 4005 Ångström. 13:15 - 15:00.
 
-2. **Stochastic differential/integral equations**. <br>
+2. [**Stochastic differential/integral equations**](./lectures/lecture_notes/lecture2.pdf). <br>
     21 Oct, 2022. Room 101132 Ångström. 13:15 - 15:00.
 
-3. **Numerical solution to stochastic differential equation**. <br>
+3. [**Numerical solution to stochastic differential equation**](./lectures/lecture_notes/lecture3.pdf). <br>
     24 Oct, 2022. Room 101127 Ångström. 13:15 - 15:00.
 
-4. **Statistical properties of SDE solutions**. <br>
+4. [**Statistical properties of SDE solutions**](./lectures/lecture_notes/lecture4.pdf). <br>
     28 Oct, 2022. Room 101142 Ångström. 13:15 - 15:00.
 
-5. **Linear SDEs and Gaussian processes**. <br>
+5. [**Linear SDEs and Gaussian processes**](./lectures/lecture_notes/lecture5.pdf). <br>
     31 Oct, 2022. Room 101146 Ångström. 13:15 - 15:00.
 
--  **Exercise 1**. <br>
+-  [**Exercise 1**](./exercises/exercise1.pdf). <br>
     2 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 2 - 3.
 
-6. **Filtering and smoothing problems I (i.e., regression with SDE prior)**. <br>
+6. [**Filtering and smoothing problems I (i.e., regression with SDE prior)**](./lectures/lecture_notes/lecture6.pdf). <br>
     4 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00.
 
-7. **Filtering and smoothing problems II (i.e., regression with SDE prior)**. <br>
+7. [**Filtering and smoothing problems II (i.e., regression with SDE prior)**](./lectures/lecture_notes/lecture7.pdf). <br>
     7 Nov, 2022. Room 101150 Ångström. 13:15 - 15:00.
 
--  **Exercise 2**. <br>
+-  [**Exercise 2**](./exercises/exercise2.pdf). <br>
     9 Nov, 2022. Room 101150 Ångström. 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 4 - 5.
 
-8. **SDE system identification**. <br>
+8. [**SDE system identification**](./lectures/lecture_notes/lecture8.pdf). <br>
     11 Nov, 2022. Room 101142 Ångström. 13:15 - 15:00. <br>
     This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the tranformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will breifly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and discribe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretization of the model and a discrete-time Kalman filter.<br>
     Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
 
--  **Exercise 3**. <br>
+-  [**Exercise 3**](./exercises/exercise3.pdf). <br>
     18 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 6 - 8.
 
