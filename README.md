@@ -7,7 +7,7 @@ This course aims to develop a computational view of stochastic differential equa
 
 # Prerequisites
 
-1. Linear algebras
+1. Linear algebra
 2. Real analysis (not essential)
 3. Probability theory
 4. Ordinary differential equations
@@ -18,56 +18,56 @@ The registration is now closed. If you still would like to enroll the course, pl
 
 # Lecture notes
 
-The lectures are given on chalkboard (numerical experiments are given in Jupyter Notebook). Hence it is recommended that the students take the note during the class, although the course responsible will upload the lecture note (possibly hand-written) to this repository.
+The lectures are given on chalkboard (numerical experiments are given in Jupyter Notebook). Hence, it is recommended that students take notes during the class, although the course responsible will upload the lecture notes (possibly hand-written) to this repository.
 
 # Essential lectures (6 credits)
 
-1. **Introduction to the course**. <br>
-    17 Oct, 2022. Room 4005 Ångström. (Swedish) 13:15 - 15:00.
+1. [**Introduction to the course**](./lectures/lecture_notes/lecture1.pdf). <br>
+    17 Oct, 2022. Room 4005 Ångström. 13:15 - 15:00.
 
-2. **Stochastic differential/integral equations**. <br>
-    21 Oct, 2022. Room 101132 Ångström. (Swedish) 13:15 - 15:00.
+2. [**Stochastic differential/integral equations**](./lectures/lecture_notes/lecture2.pdf). <br>
+    21 Oct, 2022. Room 101132 Ångström. 13:15 - 15:00.
 
-3. **Numerical solution to stochastic differential equation**. <br>
-    24 Oct, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00.
+3. [**Numerical solution to stochastic differential equation**](./lectures/lecture_notes/lecture3.pdf). <br>
+    24 Oct, 2022. Room 101127 Ångström. 13:15 - 15:00.
 
-4. **Statistical properties of SDE solutions**. <br>
-    28 Oct, 2022. Room 101142 Ångström. (Swedish) 13:15 - 15:00.
+4. [**Statistical properties of SDE solutions**](./lectures/lecture_notes/lecture4.pdf). <br>
+    28 Oct, 2022. Room 101142 Ångström. 13:15 - 15:00.
 
-5. **Linear SDEs and Gaussian processes**. <br>
-    31 Oct, 2022. Room 101146 Ångström. (Swedish) 13:15 - 15:00.
+5. [**Linear SDEs and Gaussian processes**](./lectures/lecture_notes/lecture5.pdf). <br>
+    31 Oct, 2022. Room 101146 Ångström. 13:15 - 15:00.
 
--  **Exercise 1**. <br>
-    2 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00. <br>
+-  [**Exercise 1**](./exercises/exercise1.pdf). <br>
+    2 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 2 - 3.
 
-6. **Filtering and smoothing problems I (i.e., regression with SDE prior)**. <br>
-    4 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00.
+6. [**Filtering and smoothing problems I (i.e., regression with SDE prior)**](./lectures/lecture_notes/lecture6.pdf). <br>
+    4 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00.
 
-7. **Filtering and smoothing problems II (i.e., regression with SDE prior)**. <br>
-    7 Nov, 2022. Room 101150 Ångström. (Swedish) 13:15 - 15:00.
+7. [**Filtering and smoothing problems II (i.e., regression with SDE prior)**](./lectures/lecture_notes/lecture7.pdf). <br>
+    7 Nov, 2022. Room 101150 Ångström. 13:15 - 15:00.
 
--  **Exercise 2**. <br>
-    9 Nov, 2022. Room 101150 Ångström. (Swedish) 13:15 - 15:00. <br>
+-  [**Exercise 2**](./exercises/exercise2.pdf). <br>
+    9 Nov, 2022. Room 101150 Ångström. 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 4 - 5.
 
-8. **SDE system identification**. <br>
-    11 Nov, 2022. Room 101142 Ångström. (Swedish) 13:15 - 15:00. <br>
-    This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the tranformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will breifly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and discribe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretization of the model and a discrete-time Kalman filter.<br>
+8. [**SDE system identification**](./lectures/lecture_notes/lecture8.pdf). <br>
+    11 Nov, 2022. Room 101142 Ångström. 13:15 - 15:00. <br>
+    This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the transformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will briefly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and describe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretisation of the model and a discrete-time Kalman filter.<br>
     Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
 
--  **Exercise 3**. <br>
-    18 Nov, 2022. Room 101127 Ångström. (Swedish) 13:15 - 15:00. <br>
+-  [**Exercise 3**](./exercises/exercise3.pdf). <br>
+    18 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 6 - 8.
 
 -  **Student project work presentation**. <br>
     16 Dec, 2022. Room 101142 Ångström.
 
-Time is (Swedish) 13:15 - 15:00 for all the lectures (45 mins + 45 mins + 10 mins break).
+The time is 13:15 - 15:00 for all the lectures (45 mins + 10 mins break + 45 mins).
 
 # Seminar lectures (9 credits)
 
-By attending (not necessarily all) the seminar courses and complete their writing assigments/exericses, you get upgrade to 9 credits.
+By attending (not necessarily all) the seminar courses and completing their writing assigments/exericses, you get upgrade to 9 credits.
 
 1. **Continuous-time filtering**. <br>
     This lecture is concerned with continuous-time filtering, for example, Zakai equation, Kushner equation, and projection filtering. <br>
@@ -85,7 +85,7 @@ By attending (not necessarily all) the seminar courses and complete their writin
     Lecturer: [Nathanael Bosch](https://nathanaelbosch.github.io/) (University of Tübingen)
 
 4. **Applications of SDEs in statistical signal processing**. <br>
-    In this lecture we present a few applications that use SDEs to solve signal processing problems. These include, for example, using SDEs to construct non-stationary processes to model complicated signals, and using SDEs to estiamte the spectrogram of signals with uncertainty. <br>
+    In this lecture we present a few applications that use SDEs to solve signal processing problems. These include, for example, using SDEs to construct non-stationary processes to model complicated signals, and using SDEs to estimate the spectrogram of signals with uncertainty. <br>
     Date: 28 Nov, 2022. Room 101127 Ångström (subject to change)
 
 5. **Topic TBD**. <br>
@@ -96,11 +96,9 @@ By attending (not necessarily all) the seminar courses and complete their writin
     This lecture explains the constructions of Brownian motion and Ito integrals. <br>
     Date: 5 Dec, 2022. Room 101127 Ångström
 
-Note that the dates for the seminar courses are not fixed. They are subject to change depending on the schedule of the lecturers.
-
 # Reserved timeslots
 
-We have also reserved 09.12.2022 and 12.12.2022 at Room 101127 Ångström, 13:15 - 15:00 (Swedish) as backup.
+We have also reserved 09.12.2022 and 12.12.2022 at Room 101127 Ångström, 13:15 - 15:00 as backup.
 
 # Course arrangement
 
@@ -114,7 +112,7 @@ In order to get 6 credits, you need to
 - pass the three exercise assignments,
 - present the project work. Depending on the number of students, you may do the project work in group.
 
-If you would like to get 9 credits, you need to fullfill the requirements for the 6 credits as stated above, and in addition, 
+If you would like to get 9 credits, you need to fulfill the requirements for the 6 credits as stated above, and in addition, 
 
 - actively participate all the seminar lectures,
 - Select five from all the seminar lectures, then pass the exercises of the selected, or do a writing assignment if the lecture has no exercise. (We will define the writing assignment later).
@@ -135,7 +133,7 @@ This course is mainly based on the following textbooks.
 
 # Course history
 
-- Oct - Dec, 2022, Uppsala Universitet, FTN0332 TN22H006.
+- Oct - Dec, 2022, Uppsala University, FTN0332 TN22H006.
 
 # Contact
 
