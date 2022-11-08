@@ -51,7 +51,7 @@ The lectures are given on chalkboard (numerical experiments are given in Jupyter
     9 Nov, 2022. Room 101150 Ångström. 13:15 - 15:00. <br>
     In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 4 - 5.
 
-8. [**SDE system identification**](./lectures/lecture_notes/lecture8.pdf). <br>
+8. [**Parameter estimation for stochastic continuous-time dynamical models**](./lectures/lecture_notes/lecture8.pdf). <br>
     11 Nov, 2022. Room 101142 Ångström. 13:15 - 15:00. <br>
     This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the transformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will briefly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and describe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretisation of the model and a discrete-time Kalman filter.<br>
     Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
