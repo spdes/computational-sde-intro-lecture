@@ -84,9 +84,9 @@ By attending (not necessarily all) the seminar courses and completing their writ
     Date: 13:15 - 15:00, 22 Nov, 2022. Room 2001 Ångström <br>
     Lecturer: [Nathanael Bosch](https://nathanaelbosch.github.io/) (University of Tübingen)
 
-4. **Applications of SDEs in statistical signal processing**. <br>
-    In this lecture we present a few applications that use SDEs to solve signal processing problems. These include, for example, using SDEs to construct non-stationary processes to model complicated signals, and using SDEs to estimate the spectrogram of signals with uncertainty. <br>
-    Date: 28 Nov, 2022. Room 101127 Ångström (subject to change)
+4. **Compiled and differentiable programming with JAX**. <br>
+    [JAX](https://github.com/google/jax) is a Python library that supports autodifferentiation and just-in-time (JIT) compilation. You can use JAX to differentiate Python and Numpy functions and make them faster with the JIT compilation. This helps you to achieve reliable and high-performance computations in your research. In this lecture, we go walk through the basics of JAX then see how we could apply it to the applications of SDEs. <br>
+    Date: 28 Nov, 2022. Room 101127 Ångström
 
 5. **Topic TBD**. <br>
     2 Dec, 2022. Room 101127 Ångström. <br>
