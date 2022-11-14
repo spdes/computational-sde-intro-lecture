@@ -75,7 +75,7 @@ By attending (not necessarily all) the seminar courses and completing their writ
     Lecturer: [Muhammad Fuady Emzir](https://scholar.google.com/citations?user=nfBRAHAAAAAJ&hl=en) (KFUPM)
 
 2. **SDEs and Markov chain Monte Carlo**. <br>
-    In this lecture, we present a general recipe for constructing Markov chain Monte Carlo (MCMC) samplers, including stochastic gradient (SG) versions, from stochastic continuous dynamics (SDEs). We also explore the connections between SG-MCMC and stochastic optimization methods via simple annealing techniques. Recommended readings: 1) A Complete Recipe for Stochastic Gradient MCMC. 2) Bridging the gap between stochastic gradient MCMC and stochastic optimization. <br>
+    In this lecture, we present a general recipe for constructing Markov chain Monte Carlo (MCMC) samplers, including stochastic gradient (SG) versions, from stochastic continuous dynamics (SDEs). We also explore the connections between SG-MCMC and stochastic optimization methods via simple annealing techniques. Recommended readings: 1) Bayesian Learning via Stochastic Gradient Langevin Dynamics 2) A Complete Recipe for Stochastic Gradient MCMC. <br>
     Date: 09:15 - 11:00, 22 Nov, 2022. Room 4101 Ångström <br>
     Lecturer: [Cagatay Yildiz](https://cagatayyildiz.github.io/) (University of Tübingen)
 
