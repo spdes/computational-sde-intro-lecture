@@ -71,7 +71,7 @@ By attending (not necessarily all) the seminar courses and completing their writ
 
 1. **Differential geometry for continuous-time stochastic filtering: the projection filter**. <br>
     The continuous-time stochastic filtering problem consists in solving the Kushner--Stratonovich equation which is an infinite-dimensional stochastic partial differential equation difficult to solve. In this lecture, we introduce a differential geometry approach for solving the equation: the projection filtering. The projection filters approximate the filtering solution by projecting the solution onto a manifold of parametric familiy, resulting in a finite-dimensional stochastic differential equation that is easy to solve. Then, we discuss the recent advances and challenges of the projection filtering. <br>
-    Date: 13:15 - 14:45, 17 Nov, 2022. Zoom <br>
+    Date: 13:15 - 14:45, 17 Nov, 2022. Zoom https://uu-se.zoom.us/j/66304380076 <br>
     Lecturer: [Muhammad Fuady Emzir](https://scholar.google.com/citations?user=nfBRAHAAAAAJ&hl=en) (KFUPM)
 
 2. **SDEs and Markov chain Monte Carlo**. <br>
