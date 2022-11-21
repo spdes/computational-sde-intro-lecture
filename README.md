@@ -89,7 +89,7 @@ By attending (not necessarily all) the seminar courses and completing their writ
     Date: 28 Nov, 2022. Room 101127 Ångström
 
 5. **Topic TBD**. <br>
-    2 Dec, 2022. Room 101127 Ångström. <br>
+    7 Dec, 2022. Room 101127 Ångström. <br>
     Lecturer: [Roland Hostettler](http://hostettler.co/) (Uppsala University)
 
 6. **Constructions of Wiener processes and stochastic integrals**. <br>
