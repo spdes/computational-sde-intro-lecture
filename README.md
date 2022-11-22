@@ -85,7 +85,7 @@ By attending (not necessarily all) the seminar courses and completing their writ
     Probabilistic numerical methods aim to explicitly represent the numerical uncertainty that results from limited computational resources. In this lecture, we present a class of probabilistic numerical solvers for ODEs which pose the numerical solution of an ODE as a Gauss--Markov regression problem. The resulting methods, called "ODE filters", efficiently compute posterior distributions over ODE solutions with methods from Bayesian filtering and smoothing. <br>
     Date: 13:15 - 15:00, 22 Nov, 2022. Room 2001 Ångström <br>
     Lecturer: [Nathanael Bosch](https://nathanaelbosch.github.io/) (University of Tübingen) <br>
-    [Lecture note](lectures/seminar_lectures/bosch_probnumode.md)
+    [Lecture note](lectures/seminar_lectures/bosch_probnumode.pdf)
 
 4. **Compiled and differentiable programming with JAX**. <br>
     [JAX](https://github.com/google/jax) is a Python library that supports autodifferentiation and just-in-time (JIT) compilation. You can use JAX to differentiate Python and Numpy functions and make them faster with the JIT compilation. This helps you to achieve reliable and high-performance computations in your research. In this lecture, we go walk through the basics of JAX then see how we could apply it to the applications of SDEs. <br>
