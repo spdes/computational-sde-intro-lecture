@@ -87,17 +87,18 @@ By attending (not necessarily all) the seminar courses and completing their writ
     Lecturer: [Nathanael Bosch](https://nathanaelbosch.github.io/) (University of Tübingen) <br>
     [Lecture note](lectures/seminar_lectures/bosch_probnumode.pdf)
 
-4. **Compiled and differentiable programming with JAX**. <br>
+4. **Compiled and differentiable scientific computing with JAX**. <br>
     [JAX](https://github.com/google/jax) is a Python library that supports autodifferentiation and just-in-time (JIT) compilation. You can use JAX to differentiate Python and Numpy functions and make them faster with the JIT compilation. This helps you to achieve reliable and high-performance computations in your research. In this lecture, we go walk through the basics of JAX then see how we could apply it to the applications of SDEs. <br>
-    Date: 28 Nov, 2022. Room 101127 Ångström
+    Date: 13:15 - 15:00, 28 Nov, 2022. Room 101127 Ångström
+    
+5. **Constructions of Wiener processes and stochastic integrals**. <br>
+    This lecture explains the constructions of Brownian motion and Ito integrals. <br>
+    Date: 13:15 - 15:00, 5 Dec, 2022. Room 101127 Ångström
 
-5. **Topic TBD**. <br>
-    7 Dec, 2022. Room 101127 Ångström. <br>
+6. **Topic TBD**. <br>
+    Date: 13:15 - 15:00, 7 NoDecv, 2022. Room 101127 Ångström. <br>
     Lecturer: [Roland Hostettler](http://hostettler.co/) (Uppsala University)
 
-6. **Constructions of Wiener processes and stochastic integrals**. <br>
-    This lecture explains the constructions of Brownian motion and Ito integrals. <br>
-    Date: 5 Dec, 2022. Room 101127 Ångström
 
 # Reserved timeslots
 
