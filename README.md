@@ -98,7 +98,7 @@ By attending (not necessarily all) the seminar courses and completing their writ
     [Lecture note](lectures/seminar_lectures/zhao_brownian_motion.pdf)
 
 6. **Gaussian process SDE models**. <br>
-	Stochastic differential equations (SDEs) are a versatile tool for modeling uncertain and stochastic systems. Typically, SDEs are derived from first principles. However, this is not always possible and it might be more appropriate to learn the SDE governing a system from data instead. In this talk, we look at data-driven SDE modeling using Gaussian processes. In particular, we model the drift (and possibly diffusion) function(s) using a Gaussian process. We discuss the general framework of this approach, some of the challenges that arise in such models, and look at some practical solutions.
+	Stochastic differential equations (SDEs) are a versatile tool for modeling uncertain and stochastic systems. Typically, SDEs are derived from first principles. However, this is not always possible and it might be more appropriate to learn the SDE governing a system from data instead. In this talk, we look at data-driven SDE modeling using Gaussian processes. In particular, we model the drift (and possibly diffusion) function(s) using a Gaussian process. We discuss the general framework of this approach, some of the challenges that arise in such models, and look at some practical solutions.<br>
     Date: 13:15 - 15:00, 7 NoDecv, 2022. Room 101127 Ångström. <br>
     Lecturer: [Roland Hostettler](http://hostettler.co/) (Uppsala University) <br>
     [Lecture note](lectures/seminar_lectures/hostettler_gp_sdes.pdf)
