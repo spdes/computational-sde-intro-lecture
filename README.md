@@ -5,6 +5,8 @@
 
 This course aims to develop a computational view of stochastic differential equations (SDEs) for students that have an applied or engineering background, e.g., machine learning, signal processing, electrical engineering, control, and statistics.
 
+**The course for the year 2022 is now archived. Please feel free to find the annual report in the folder `./annual_reports/2022`.**
+
 # Prerequisites
 
 1. Linear algebra
@@ -103,7 +105,6 @@ By attending (not necessarily all) the seminar courses and completing their writ
     Lecturer: [Roland Hostettler](http://hostettler.co/) (Uppsala University) <br>
     [Lecture note](lectures/seminar_lectures/hostettler_gp_sdes.pdf)
 
-
 # Reserved timeslots
 
 We have also reserved 09.12.2022 and 12.12.2022 at Room 101127 Ångström, 13:15 - 15:00 as backup.
@@ -129,7 +130,7 @@ The course grade is based on pass/fail.
 
 # Project work
 
-To be added.
+See the folder `./projects`.
 
 # Reading materials
 
