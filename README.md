@@ -2,135 +2,117 @@
 
 <img src="./assets/fpk.gif" alt="SDE density evolution in time" width="400"/>
 <img src="./assets/filtering-smoothing.gif" alt="Stochasti filtering and smoothing" width="400"/>
+<img src="./assets/sb-mnist.gif" alt="Schrödinger bridge for MNIST restoration" width="400"/>
+<img src="./assets/cond-mnist.png" alt="Schrödinger bridge for MNIST restoration" width="400"/>
 
-This course aims to develop a computational view of stochastic differential equations (SDEs) for students that have an applied or engineering background, e.g., machine learning, signal processing, electrical engineering, control, and statistics.
+This course aims to develop a computational view of stochastic differential equations (SDEs) for students who have an applied or engineering background, e.g., machine learning, signal processing, statistics, computer vision, and control.
 
-**The course for the year 2022 is now archived. Please feel free to find the annual report in the folder `./annual_reports/2022`.**
+**The course for the year 2022 is now archived. Please find the archive in https://github.com/spdes/computational-sde-intro-lecture/releases or in the branch `2022-uu`.
+A feedback report of the course can be found in the folder `./annual_reports/2022`.**
+
+In this year 2025, we have decided to make some changes to the course compared to that of 2022:
+
+- Due to practical issues, we have to run the course in a smaller scale this time. Some lectures have been cut (e.g., smoothing, GPs, and seminar). You can look up the 2022 archive for the full comprehensive programme.
+- We have added lectures for generative diffusion models.
+- The course will take place at Linköping University.
 
 # Prerequisites
 
-1. Linear algebra
-2. Real analysis (not essential)
-3. Probability theory
-4. Ordinary differential equations
+1. Linear algebra.
+2. Real analysis (not essential, but very useful).
+3. Probability theory.
+4. Ordinary differential equations.
 
 # How to register
 
-The registration is now closed. If you still would like to enroll the course, please send an email to the course responsible.
+Please register by using this link https://forms.gle/1aHXhUrJTaUcBVnC8. 
 
 # Lecture notes
 
-The lectures are given on chalkboard (numerical experiments are given in Jupyter Notebook). Hence, it is recommended that students take notes during the class, although the course responsible will upload the lecture notes (possibly hand-written) to this repository.
+The lectures are primarily given on chalkboard (numerical experiments are given in Jupyter Notebook). 
+It is recommended that students take notes during the class, although the lecture notes (possibly hand-written) will be uploaded to this repository.
 
-# Essential lectures (6 credits)
+# Lectures (ECTS 6 credits)
+Most lectures are given on site and are not possible for remote attendance. 
+You may attend Lectures 4 - 5 over Zoom but we may not have a camera to show blackboard presentations.
 
-1. [**Introduction to the course**](./lectures/lecture_notes/lecture1.pdf). <br>
-    17 Oct, 2022. Room 4005 Ångström. 13:15 - 15:00.
+0. [**Introduction to the course**](./lectures/lecture_notes/lecture0.pdf). <br>
+    Please go through this lecture note by yourself prior to attending the course. <br>
+    Explain the contents, schedule, and examination of the course.
 
-2. [**Stochastic differential/integral equations**](./lectures/lecture_notes/lecture2.pdf). <br>
-    21 Oct, 2022. Room 101132 Ångström. 13:15 - 15:00.
+1. [**Stochastic differential/integral equations**](./lectures/lecture_notes/lecture1.pdf). <br>
+    03 Nov 2025. Room John Von Neumann (remote attendance not possible). 08.15 - 10.00.
+    The construction and definition of SDEs.
 
-3. [**Numerical solution to stochastic differential equation**](./lectures/lecture_notes/lecture3.pdf). <br>
-    24 Oct, 2022. Room 101127 Ångström. 13:15 - 15:00.
+2. [**Numerical solution to stochastic differential equation**](./lectures/lecture_notes/lecture2.pdf). <br>
+    03 Nov 2025. Room John Von Neumann (remote attendance not possible). 13:15 - 15:00.
+    The numerical simulation of SDEs.
 
-4. [**Statistical properties of SDE solutions**](./lectures/lecture_notes/lecture4.pdf). <br>
-    28 Oct, 2022. Room 101142 Ångström. 13:15 - 15:00.
+3. [**Distribution and statistics of SDE solutions**](./lectures/lecture_notes/lecture4.pdf). <br>
+    04 Nov 2025. Room John Von Neumann (remote attendance not possible). 08.15 - 10.00.
+    This will cover, Langevin dynamics, Kolmogorov forward equation, and how to numerically compute expectations of SDEs. 
 
-5. [**Linear SDEs and Gaussian processes**](./lectures/lecture_notes/lecture5.pdf). <br>
-    31 Oct, 2022. Room 101146 Ångström. 13:15 - 15:00.
+4. [**Linear SDEs and stochastic filtering**](./lectures/lecture_notes/lecture4.pdf). <br>
+    04 Nov 2025. Room John Von Neumann (remote attendance not possible). 13:15 - 15:00.
+    Linear SDEs are an important class of SDEs, especially for generative diffusion models. 
+    This lecture explains the basic properties of linear SDEs, as well as slighly explain the stochastic filtering problem.
 
+5. [**Generative diffusion models**](./lectures/lecture_notes/lecture5.txt). <br>
+    05 Nov 2025. Room John Von Neumann (Zoom possible at xxx but not recommended). 08.15 - 10.00.
+    Training and sampling of generative diffusion models (to be updated). 
+
+6. [**Generative diffusion posterior sampling**](./lectures/lecture_notes/lecture6.txt). <br>
+    05 Nov 2025. Room John Von Neumann (Zoom possible at xxx but not recommended). 13:15 - 16:00.
+    Posterior/conditional sampling of generative diffusion models. Say, e.g., how to generate images satisfying given conditions (to be updated).
+
+7. [**Guest lectures (TBD)**](./lectures/lecture_notes/xxx.pdf). <br>
+    06 Nov 2025. Room John Von Neumann (Zoom possible at xxx). 08.15 - 12.00
+    Research talks on generative diffusion models, mostly given by our local PhD students. 
+    This programme is tentative and may be cancalled if we don't receive enough on-site students. 
+    Tentative programme (to be updated):
+    - Generative Schrödinger bridges (Zheng Zhao). 
+    - Bayesian inverse problems with decoupled diffusion sequential Monte Carlo (Filip Kelvinius).
+    - More ...
+
+# Exercises
+
+We have four exercise assignments, and we will explain their solutions at two exercise sessions. 
+You are supposed to pass all the four assignments and hand-in your solutions to the lecturer prior to attending the exercise session. 
+For example, the session for explaning Exercises 1 & 2 takes place at 13.15 on 20 Nov. You should email your solutions of Exercises 1 and 2 to the course responsible, before this time.
+
+**Note: the exercises have not been updated for 2025.**
 -  [**Exercise 1**](./exercises/exercise1.pdf). <br>
-    2 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00. <br>
-    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 2 - 3.
-
-6. [**Filtering and smoothing problems I (i.e., regression with SDE prior)**](./lectures/lecture_notes/lectures_6_and_7.pdf). <br>
-    4 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00.
-
-7. [**Filtering and smoothing problems II (i.e., regression with SDE prior)**](./lectures/lecture_notes/lectures_6_and_7.pdf). <br>
-    7 Nov, 2022. Room 101150 Ångström. 13:15 - 15:00.
-
+    Session at 20 Nov 2025. Room John Von Neumann (Zoom possible at xxx). 13:15 - 15:00. <br>
 -  [**Exercise 2**](./exercises/exercise2.pdf). <br>
-    9 Nov, 2022. Room 101150 Ångström. 13:15 - 15:00. <br>
-    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 4 - 5.
-
-8. [**Parameter estimation for stochastic continuous-time dynamical models**](./lectures/lecture_notes/lecture8.pdf). <br>
-    11 Nov, 2022. Room 101142 Ångström. 13:15 - 15:00. <br>
-    This lecture presents estimation methods for SDEs. These are typically based on discrete-time measurements, and therefore the transformation of the original model into a discrete-time model is important. The focus is on the linear time-invariant case. We will briefly discuss sampling of continuous-time models, the main challenges of estimating continuous-time models, and describe some of the available basic estimation approaches. The approaches can be divided into direct approaches and indirect approaches. Among the direct approaches is the maximum likelihood method, which is based on exact discretisation of the model and a discrete-time Kalman filter.<br>
-    Lecturer: [Mohamed Abdalmoaty](https://user.it.uu.se/~mohab408/)
-
+    Session at 20 Nov, 2025. Room John Von Neumann (Zoom possible at xxx). 13:15 - 15:00. <br>
 -  [**Exercise 3**](./exercises/exercise3.pdf). <br>
-    18 Nov, 2022. Room 101127 Ångström. 13:15 - 15:00. <br>
-    In this exercise session, the students should deliver answers to the assignments that are associated with Lectures 6 - 8.
-
--  **Student project work presentation**. <br>
-    16 Dec, 2022. Room 101142 Ångström.
-
-The time is 13:15 - 15:00 for all the lectures (45 mins + 10 mins break + 45 mins).
-
-# Seminar lectures (9 credits)
-
-By attending (not necessarily all) the seminar courses and completing their writing assigments/exericses, you get upgrade to 9 credits.
-
-1. **Differential geometry for continuous-time stochastic filtering: the projection filter**. <br>
-    The continuous-time stochastic filtering problem consists in solving the Kushner--Stratonovich equation which is an infinite-dimensional stochastic partial differential equation difficult to solve. In this lecture, we introduce a differential geometry approach for solving the equation: the projection filtering. The projection filters approximate the filtering solution by projecting the solution onto a manifold of parametric familiy, resulting in a finite-dimensional stochastic differential equation that is easy to solve. Then, we discuss the recent advances and challenges of the projection filtering. <br>
-    Date: 13:15 - 14:45, 17 Nov, 2022. Zoom https://uu-se.zoom.us/j/66304380076 <br>
-    Lecturer: [Muhammad Fuady Emzir](https://scholar.google.com/citations?user=nfBRAHAAAAAJ&hl=en) (KFUPM) <br>
-    [Lecture note](lectures/seminar_lectures/emzir_continuous_filtering.pdf)
-
-2. **SDEs and Markov chain Monte Carlo**. <br>
-    In this lecture, we present a general recipe for constructing Markov chain Monte Carlo (MCMC) samplers, including stochastic gradient (SG) versions, from stochastic continuous dynamics (SDEs). We also explore the connections between SG-MCMC and stochastic optimization methods via simple annealing techniques. Recommended readings: 1) Bayesian Learning via Stochastic Gradient Langevin Dynamics 2) A Complete Recipe for Stochastic Gradient MCMC. <br>
-    Date: 09:15 - 11:00, 22 Nov, 2022. Room 4101 Ångström <br>
-    Lecturer: [Cagatay Yildiz](https://cagatayyildiz.github.io/) (University of Tübingen) <br>
-    [Lecture note](lectures/seminar_lectures/yildiz_sde_sgd_mcmc.md)
-
-3. **Probabilistic numerics for ordinary differential equations**. <br>
-    Probabilistic numerical methods aim to explicitly represent the numerical uncertainty that results from limited computational resources. In this lecture, we present a class of probabilistic numerical solvers for ODEs which pose the numerical solution of an ODE as a Gauss--Markov regression problem. The resulting methods, called "ODE filters", efficiently compute posterior distributions over ODE solutions with methods from Bayesian filtering and smoothing. <br>
-    Date: 13:15 - 15:00, 22 Nov, 2022. Room 2001 Ångström <br>
-    Lecturer: [Nathanael Bosch](https://nathanaelbosch.github.io/) (University of Tübingen) <br>
-    [Lecture note](lectures/seminar_lectures/bosch_probnumode.pdf)
-
-4. **Compiled and differentiable scientific computing with JAX**. <br>
-    [JAX](https://github.com/google/jax) is a Python library that supports autodifferentiation and just-in-time (JIT) compilation. You can use JAX to differentiate Python and Numpy functions and make them faster with the JIT compilation. This helps you to achieve reliable and high-performance computations in your research. In this lecture, we go walk through the basics of JAX then see how we could apply it to the applications of SDEs. <br>
-    Date: 13:15 - 15:00, 28 Nov, 2022. Room 101127 Ångström <br>
-    [Lecture note](lectures/seminar_lectures/zhao_jax_workshop)
-    
-5. **Constructions of Wiener processes and stochastic integrals**. <br>
-    This lecture explains the constructions of Brownian motion and Ito integrals. <br>
-    Date: 13:15 - 15:00, 5 Dec, 2022. Room 101127 Ångström <br>
-    [Lecture note](lectures/seminar_lectures/zhao_brownian_motion.pdf)
-
-6. **Gaussian process SDE models**. <br>
-	Stochastic differential equations (SDEs) are a versatile tool for modeling uncertain and stochastic systems. Typically, SDEs are derived from first principles. However, this is not always possible and it might be more appropriate to learn the SDE governing a system from data instead. In this talk, we look at data-driven SDE modeling using Gaussian processes. In particular, we model the drift (and possibly diffusion) function(s) using a Gaussian process. We discuss the general framework of this approach, some of the challenges that arise in such models, and look at some practical solutions.<br>
-    Date: 13:15 - 15:00, 7 Dec, 2022. Room 101127 Ångström. <br>
-    Lecturer: [Roland Hostettler](http://hostettler.co/) (Uppsala University) <br>
-    [Lecture note](lectures/seminar_lectures/hostettler_gp_sdes.pdf)
-
-# Reserved timeslots
-
-We have also reserved 09.12.2022 and 12.12.2022 at Room 101127 Ångström, 13:15 - 15:00 as backup.
+    Session at 04 Dec, 2025. Room John Von Neumann (Zoom possible at xxx). 13:15 - 15:00. <br>
+-  [**Exercise 4**](./exercises/exercise4.pdf). <br>
+    Session at 04 Dec, 2025. Room John Von Neumann (Zoom possible at xxx). 13:15 - 15:00. <br>
 
 # Course arrangement
 
-The course consists of lectures, exercises, and project work. Specifically, in each week, there would be one/two lectures (45 + 45 mins) and an exercise session (60 mins). The students shall present and discuss their exercise solutions during the exercise session. 
-
-Total credit is 6 or 9.
+The course consists of lectures, exercises(, and project work). Total credit is 6 or 9, graded based on pass/fail.
 
 In order to get 6 credits, you need to 
 
-- actively participate all the essential lectures,
-- pass the three exercise assignments,
-- present the project work. Depending on the number of students, you may do the project work in group.
+- actively participate all the lectures,
+- and pass all the four exercise assignments (see Exercises above). 
 
-If you would like to get 9 credits, you need to fulfill the requirements for the 6 credits as stated above, and in addition, 
+If you would like to upgrade to 9 credits, you need to fulfill the requirements for the 6 credits as stated above, and in addition, 
 
-- actively participate all the seminar lectures,
-- Select five from all the seminar lectures, then pass the exercises of the selected, or do a writing assignment if the lecture has no exercise. (We will define the writing assignment later).
-
-The course grade is based on pass/fail.
+- do a project work and write a report (see the next section). 
 
 # Project work
 
-See the folder `./projects`.
+Our intent of the project work is for you to apply what you have learnt about SDEs to solve your own research problems, and possibly aiming for a publication.
+For example, in 2022 we have students applied SDEs for image restoration and tumor modelling. 
+You can find some example project reports in `./projects` by our students in 2022.
+
+You should discuss with the lecturer *well in advance* to select a topic. 
+The deadline to hand-in the project work is 19.12.2025.
+
+You do not need to do a project work if you are not aiming for 9 credits. 
 
 # Reading materials
 
@@ -142,12 +124,13 @@ This course is mainly based on the following textbooks.
 
 # Course history
 
-- Oct - Dec, 2022, Uppsala University, FTN0332 TN22H006.
+- Nov 2025, Linköping University.
+- Oct - Dec 2022, Uppsala University, FTN0332 TN22H006.
 
 # Contact
 
-Zheng Zhao, Uppsala University. 
+Zheng Zhao, Linköping University. 
 
-firstname.lastname@it.uu.se
+firstname.lastname@liu.se
 
-https://zz.zabemon.com
+https://zz.zabemon.com.
