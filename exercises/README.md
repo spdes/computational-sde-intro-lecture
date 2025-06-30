@@ -4,5 +4,5 @@ Please find the exercises in this folder.
 
 # Solutions
 
-Solutions are shared via a link to students.
+Solutions will be given at the exercise sessions.
 
