@@ -9,7 +9,7 @@ But overally and perceptually, the students liked the course.
 - 15 students registered.
 - 2 student did show up. 
 - 1 student dropped in the middle. 
-- 11 students eventually received the credits which is impressive. Among these, 7 students received 6 creduts while 4 received 9 credits. 
+- 11 students eventually received the credits which is impressive. Among these, 7 students received 6 creduts while 4 received 9 credits. Four students were from Uppsala University, six from IDA, and 1 from ISY. 
 
 # Analysis and action points for the next year
 
@@ -21,7 +21,7 @@ The following are detailed thoughts and plans for the next time.
 - The added contents on "generative diffusion models" were great. 
 - The lecture room "John von Neumann" is not an ideal choice. We need a lecture room with a larger and genuine chalkboard.
 - The joint dinner was useful, sharing connections among PhD students. 
-- TODO: It is necessary to recover the original two-months schedule. Perhaps, make the course more locally adapted to the LiU students. 
-- TODO: More emphasises on "generative diffusion models". Next time the course will cover also the flow and interpolants models (albeit the equivalence). 
+- TODO: It is necessary to recover the original two-months schedule. Perhaps, make the course more locally adapted to the LiU students. It is really hard to accept external students considering that this is an entensive course. Perhaps there are some funding that can support external students?
+- TODO: More work on "generative diffusion models". Next time the course will cover also the flow and interpolants models (albeit the equivalence). 
 - TODO: Apply for course funding to invite guest speakers and book for better lecture rooms. 
 - TODO: Could there be a possibility to formalise the course as a master level course at LiU?
